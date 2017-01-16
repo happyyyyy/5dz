@@ -1,0 +1,119 @@
+body{
+	margin: 0 auto;
+     font-family: Helvetica, sans-serif;
+     font-size: 14px;
+     width: 1215px;
+	}
+.user {
+   padding:0 10px;
+    float: right;
+    height: 35px;
+    line-height: 35px;
+    color: #fff;
+    text-decoration: none;
+
+}
+.mmenu ul{
+    margin: 0 0 0 390px;
+}
+.user span {
+    margin-top: 4px;
+    padding-right: 36px;
+    width: 27px;
+    height: 31px;
+    float: left;
+    display: inline-block;
+    background: url(../img/-3.png) 0 0 no-repeat;
+}
+.mmenu{
+            height: 35px;
+         
+            background-color: #074d8a;
+
+    }
+    li {
+    float: right; 
+    padding: 0 10px;
+    display: block;
+    line-height: 35px;
+}
+
+ .menu{
+    margin: 0 0 0 426px;
+    width: 373px;
+    float: left;
+    height: 36px;
+    line-height: 36px;
+    color: #fff;
+
+}
+.menu li:hover {
+    background-color: #4eabda;
+    height: 35px;
+    color: white;
+
+}
+.menu a:hover{
+    color: white;
+}
+
+.menu li a {
+    color: #60b5ed;
+    text-decoration: none;
+}
+ .pic{
+    background-image: url(../img/Безимени-1.png)  ;
+    height: 1026px;
+ }
+ .ccc img {
+    
+    margin: 215px auto auto 353px;
+    position: relative;
+ }
+ .button img {
+    position: absolute;
+    top: 136px;
+    left: 138px;
+
+ }
+  .ccc a .eee{
+    position: absolute;
+    left: 208px;
+    top: 545px;
+  }
+   .checc {
+    display: block;
+    position: absolute;
+    top: 722px;
+    left: 496px;
+    color: #b6b5b4;
+  }
+  input{
+    width: 245px;
+    height: 35px;
+    background-color: #0f0e0e;
+    margin: 7px;
+    color: white;
+    padding: 0 0 0 15px;
+}
+ input:hover{
+    background-color: #1b5288;
+    border-color: #548eb8; 
+ }
+.above{
+    height: 259px;
+    width: 300px;
+    position: absolute;
+
+    top: 455px;
+    left: 495px;
+}
+.checc input {
+    position: absolute;
+    margin: 0;
+    width: 21px;
+    height: 22px;
+}
+.user:hover{
+    background: linear-gradient(to top,   #2e7ac4, #50afdc);
+}

@@ -1,0 +1,16 @@
+td{
+	margin: 0;
+	border: 5px solid;
+	padding: 0;
+}
+/*.wi{
+	width: 20px;
+}
+*//*.yell{
+	width: 100px;
+}*/
+table{
+	border-collapse: collapse;
+	width: 300px;
+	height: 300px;
+}
